@@ -6,6 +6,12 @@
     <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5.7/angular.min.js"></script>
 </head>
 <body ng-controller="appController as vm">
+    <style>
+        .done {
+            text-decoration: line-through;
+            color: red;
+        }
+    </style>
     <script>
         angular.module('myApp', [])
             .controller('appController', function() {
@@ -34,7 +40,7 @@
             <ul ng-repeat="todo in vm.todos">
                 <li>
                     <input type="checkbox" ng-model="todo.done">
-                    {{todo.title}}
+                    <span ng-class="{'done': todo.done }">{{todo.title}}</span>
                 </li>
             </ul>
         </form>
