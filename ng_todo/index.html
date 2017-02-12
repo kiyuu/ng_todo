@@ -18,25 +18,41 @@
                 var vm = this;
 
                 vm.todos = [];
-                vm.todoTitle = ''
+                vm.todoTitle = '';
 
                 /*
                  * TODO項目の作成処理
                  */
                 vm.todoCreate = function () {
-                    vm.todoItem = {
+                    var item = {
                         title: vm.todoTitle,
                         done: false
                     };
-                    vm.todos.push(vm.todoItem);
+                    vm.todos.push(item);
 
+                    vm.todoTitle = '';
                 };
+
+                /*
+                 * 削除処理
+                 */
+                vm.todoDelete = function () {
+                    var newTodos = [];
+                    angular.forEach(vm.todos, function (item) {
+                        if (!item.done) {
+                            newTodos.push(item);
+                        }
+                        vm.todos = newTodos;
+                    });
+                }
             });
     </script>
     <div>
         <form>
             <input type="text" ng-model="vm.todoTitle" placeholder="TODOを入力">
             <button ng-click="vm.todoCreate()">TODOを作成</button>
+            <button ng-click="vm.todoDelete()">完了したTODOを削除</button>
+
             <ul ng-repeat="todo in vm.todos">
                 <li>
                     <input type="checkbox" ng-model="todo.done">
