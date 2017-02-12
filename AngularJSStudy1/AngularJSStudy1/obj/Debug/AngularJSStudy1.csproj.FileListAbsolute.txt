@@ -1,0 +1,66 @@
+c:\users\yuuki\documents\visual studio 2015\Projects\AngularJSStudy1\AngularJSStudy1\bin\ApplicationInsights.config
+c:\users\yuuki\documents\visual studio 2015\Projects\AngularJSStudy1\AngularJSStudy1\bin\roslyn\csc.exe
+c:\users\yuuki\documents\visual studio 2015\Projects\AngularJSStudy1\AngularJSStudy1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\yuuki\documents\visual studio 2015\Projects\AngularJSStudy1\AngularJSStudy1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\yuuki\documents\visual studio 2015\Projects\AngularJSStudy1\AngularJSStudy1\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\yuuki\documents\visual studio 2015\Projects\AngularJSStudy1\AngularJSStudy1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\yuuki\documents\visual studio 2015\Projects\AngularJSStudy1\AngularJSStudy1\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\yuuki\documents\visual studio 2015\Projects\AngularJSStudy1\AngularJSStudy1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\yuuki\documents\visual studio 2015\Projects\AngularJSStudy1\AngularJSStudy1\bin\roslyn\System.Collections.Immutable.dll
+c:\users\yuuki\documents\visual studio 2015\Projects\AngularJSStudy1\AngularJSStudy1\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\yuuki\documents\visual studio 2015\Projects\AngularJSStudy1\AngularJSStudy1\bin\roslyn\vbc.exe
+c:\users\yuuki\documents\visual studio 2015\Projects\AngularJSStudy1\AngularJSStudy1\bin\roslyn\VBCSCompiler.exe
+c:\users\yuuki\documents\visual studio 2015\Projects\AngularJSStudy1\AngularJSStudy1\bin\roslyn\VBCSCompiler.exe.config
+c:\users\yuuki\documents\visual studio 2015\Projects\AngularJSStudy1\AngularJSStudy1\bin\AngularJSStudy1.dll.config
+c:\users\yuuki\documents\visual studio 2015\Projects\AngularJSStudy1\AngularJSStudy1\bin\AngularJSStudy1.dll
+c:\users\yuuki\documents\visual studio 2015\Projects\AngularJSStudy1\AngularJSStudy1\bin\AngularJSStudy1.pdb
+c:\users\yuuki\documents\visual studio 2015\Projects\AngularJSStudy1\AngularJSStudy1\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\yuuki\documents\visual studio 2015\Projects\AngularJSStudy1\AngularJSStudy1\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\yuuki\documents\visual studio 2015\Projects\AngularJSStudy1\AngularJSStudy1\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\yuuki\documents\visual studio 2015\Projects\AngularJSStudy1\AngularJSStudy1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\yuuki\documents\visual studio 2015\Projects\AngularJSStudy1\AngularJSStudy1\bin\Microsoft.AI.Web.dll
+c:\users\yuuki\documents\visual studio 2015\Projects\AngularJSStudy1\AngularJSStudy1\bin\Microsoft.AI.WindowsServer.dll
+c:\users\yuuki\documents\visual studio 2015\Projects\AngularJSStudy1\AngularJSStudy1\bin\Microsoft.ApplicationInsights.dll
+c:\users\yuuki\documents\visual studio 2015\Projects\AngularJSStudy1\AngularJSStudy1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\yuuki\documents\visual studio 2015\Projects\AngularJSStudy1\AngularJSStudy1\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\yuuki\documents\visual studio 2015\Projects\AngularJSStudy1\AngularJSStudy1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\yuuki\documents\visual studio 2015\Projects\AngularJSStudy1\AngularJSStudy1\bin\Microsoft.AI.Web.xml
+c:\users\yuuki\documents\visual studio 2015\Projects\AngularJSStudy1\AngularJSStudy1\bin\Microsoft.AI.WindowsServer.xml
+c:\users\yuuki\documents\visual studio 2015\Projects\AngularJSStudy1\AngularJSStudy1\bin\Microsoft.ApplicationInsights.xml
+c:\users\yuuki\documents\visual studio 2015\Projects\AngularJSStudy1\AngularJSStudy1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\yuuki\documents\visual studio 2015\Projects\AngularJSStudy1\AngularJSStudy1\obj\Debug\AngularJSStudy1.csprojResolveAssemblyReference.cache
+c:\users\yuuki\documents\visual studio 2015\Projects\AngularJSStudy1\AngularJSStudy1\obj\Debug\AngularJSStudy1.dll
+c:\users\yuuki\documents\visual studio 2015\Projects\AngularJSStudy1\AngularJSStudy1\obj\Debug\AngularJSStudy1.pdb
+C:\Users\yuuki\Documents\git\ng_todo\AngularJSStudy1\AngularJSStudy1\bin\ApplicationInsights.config
+C:\Users\yuuki\Documents\git\ng_todo\AngularJSStudy1\AngularJSStudy1\bin\roslyn\csc.exe
+C:\Users\yuuki\Documents\git\ng_todo\AngularJSStudy1\AngularJSStudy1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\yuuki\Documents\git\ng_todo\AngularJSStudy1\AngularJSStudy1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\yuuki\Documents\git\ng_todo\AngularJSStudy1\AngularJSStudy1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\yuuki\Documents\git\ng_todo\AngularJSStudy1\AngularJSStudy1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\yuuki\Documents\git\ng_todo\AngularJSStudy1\AngularJSStudy1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\yuuki\Documents\git\ng_todo\AngularJSStudy1\AngularJSStudy1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\yuuki\Documents\git\ng_todo\AngularJSStudy1\AngularJSStudy1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\yuuki\Documents\git\ng_todo\AngularJSStudy1\AngularJSStudy1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\yuuki\Documents\git\ng_todo\AngularJSStudy1\AngularJSStudy1\bin\roslyn\vbc.exe
+C:\Users\yuuki\Documents\git\ng_todo\AngularJSStudy1\AngularJSStudy1\bin\roslyn\VBCSCompiler.exe
+C:\Users\yuuki\Documents\git\ng_todo\AngularJSStudy1\AngularJSStudy1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\yuuki\Documents\git\ng_todo\AngularJSStudy1\AngularJSStudy1\bin\AngularJSStudy1.dll.config
+C:\Users\yuuki\Documents\git\ng_todo\AngularJSStudy1\AngularJSStudy1\bin\AngularJSStudy1.dll
+C:\Users\yuuki\Documents\git\ng_todo\AngularJSStudy1\AngularJSStudy1\bin\AngularJSStudy1.pdb
+C:\Users\yuuki\Documents\git\ng_todo\AngularJSStudy1\AngularJSStudy1\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\yuuki\Documents\git\ng_todo\AngularJSStudy1\AngularJSStudy1\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\yuuki\Documents\git\ng_todo\AngularJSStudy1\AngularJSStudy1\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\yuuki\Documents\git\ng_todo\AngularJSStudy1\AngularJSStudy1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\yuuki\Documents\git\ng_todo\AngularJSStudy1\AngularJSStudy1\bin\Microsoft.AI.Web.dll
+C:\Users\yuuki\Documents\git\ng_todo\AngularJSStudy1\AngularJSStudy1\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\yuuki\Documents\git\ng_todo\AngularJSStudy1\AngularJSStudy1\bin\Microsoft.ApplicationInsights.dll
+C:\Users\yuuki\Documents\git\ng_todo\AngularJSStudy1\AngularJSStudy1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\yuuki\Documents\git\ng_todo\AngularJSStudy1\AngularJSStudy1\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\yuuki\Documents\git\ng_todo\AngularJSStudy1\AngularJSStudy1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\yuuki\Documents\git\ng_todo\AngularJSStudy1\AngularJSStudy1\bin\Microsoft.AI.Web.xml
+C:\Users\yuuki\Documents\git\ng_todo\AngularJSStudy1\AngularJSStudy1\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\yuuki\Documents\git\ng_todo\AngularJSStudy1\AngularJSStudy1\bin\Microsoft.ApplicationInsights.xml
+C:\Users\yuuki\Documents\git\ng_todo\AngularJSStudy1\AngularJSStudy1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\yuuki\Documents\git\ng_todo\AngularJSStudy1\AngularJSStudy1\obj\Debug\AngularJSStudy1.csprojResolveAssemblyReference.cache
+C:\Users\yuuki\Documents\git\ng_todo\AngularJSStudy1\AngularJSStudy1\obj\Debug\AngularJSStudy1.dll
+C:\Users\yuuki\Documents\git\ng_todo\AngularJSStudy1\AngularJSStudy1\obj\Debug\AngularJSStudy1.pdb
