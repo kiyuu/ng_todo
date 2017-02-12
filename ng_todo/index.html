@@ -7,19 +7,24 @@
 </head>
 <body ng-controller="appController as vm">
     <script>
-
-    angular.module("myApp", [])
-            .controller("appController", function() {
+        angular.module('myApp', [])
+            .controller('appController', function() {
                 var vm = this;
-
-                vm.clickButton = function() {
-                    alert('Hello World');
-                }
+                vm.fruits = [
+                    "りんご",
+                    "梨",
+                    "ぶどう",
+                    "柿",
+                    "いちご",
+                    "メロン",
+                    "パイナップル"
+                ];
             });
-
     </script>
     <div>
-        <button ng-click="vm.clickButton()">起動ボタン</button>
+        <ul ng-repeat="fruit in vm.fruits">
+            <li>{{fruit}}</li>
+        </ul>
     </div>
 </body>
 </html>
