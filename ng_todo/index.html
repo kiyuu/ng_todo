@@ -18,12 +18,13 @@
                  * TODO項目の作成処理
                  */
                 vm.todoCreate = function () {
-                    var item = {
-                        title: vm.todoTitle
+                    vm.todoItem = {
+                        title: vm.todoTitle,
+                        done: false
                     };
-                    vm.todos.push(item);
+                    vm.todos.push(vm.todoItem);
 
-                }
+                };
             });
     </script>
     <div>
@@ -31,7 +32,10 @@
             <input type="text" ng-model="vm.todoTitle" placeholder="TODOを入力">
             <button ng-click="vm.todoCreate()">TODOを作成</button>
             <ul ng-repeat="todo in vm.todos">
-                <li>{{todo.title}}</li>
+                <li>
+                    <input type="checkbox" ng-model="todo.done">
+                    {{todo.title}}
+                </li>
             </ul>
         </form>
     </div>
