@@ -1,0 +1,25 @@
+﻿<!DOCTYPE html>
+<html lang="ja" ng-app="myApp">
+<head>
+    <meta charset="UTF-8">
+    <title>Todoアプリ</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5.7/angular.min.js"></script>
+</head>
+<body ng-controller="appController as vm">
+    <script>
+
+    angular.module("myApp", [])
+            .controller("appController", function() {
+                var vm = this;
+
+                vm.clickButton = function() {
+                    alert('Hello World');
+                }
+            });
+
+    </script>
+    <div>
+        <button ng-click="vm.clickButton()">起動ボタン</button>
+    </div>
+</body>
+</html>
