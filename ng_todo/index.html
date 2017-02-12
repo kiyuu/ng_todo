@@ -14,52 +14,43 @@
     </style>
     <script>
         angular.module('myApp', [])
-            .controller('appController', function() {
-                var vm = this;
+            .component('todo', {
+                controllerAs: 'vm',
+                controller: function() {
+                    var vm = this;
 
-                vm.todos = [];
-                vm.todoTitle = '';
-
-                /*
-                 * TODO項目の作成処理
-                 */
-                vm.todoCreate = function () {
-                    var item = {
-                        title: vm.todoTitle,
-                        done: false
-                    };
-                    vm.todos.push(item);
-
+                    vm.todos = [];
                     vm.todoTitle = '';
-                };
 
-                /*
-                 * 削除処理
-                 */
-                vm.todoDelete = function () {
-                    var newTodos = [];
-                    angular.forEach(vm.todos, function (item) {
-                        if (!item.done) {
-                            newTodos.push(item);
-                        }
+                    /**
+                     * TODO項目の作成処理
+                     */
+                    vm.todoCreate = function() {
+                        var item = {
+                            title: vm.todoTitle,
+                            done: false
+                        };
+                        vm.todos.push(item);
+
+                        vm.todoTitle = '';
+                    };
+
+                    /**
+                     * 削除処理
+                     */
+                    vm.todoDelete = function() {
+                        var newTodos = [];
+                        angular.forEach(vm.todos, function(item){
+                            if (!item.done) {
+                                newTodos.push(item);
+                            }
+                        })
                         vm.todos = newTodos;
-                    });
-                }
+                    }
+                },
+                templateUrl: 'todo.html'
             });
     </script>
-    <div>
-        <form>
-            <input type="text" ng-model="vm.todoTitle" placeholder="TODOを入力">
-            <button ng-click="vm.todoCreate()">TODOを作成</button>
-            <button ng-click="vm.todoDelete()">完了したTODOを削除</button>
-
-            <ul ng-repeat="todo in vm.todos">
-                <li>
-                    <input type="checkbox" ng-model="todo.done">
-                    <span ng-class="{'done': todo.done }">{{todo.title}}</span>
-                </li>
-            </ul>
-        </form>
-    </div>
+    <todo></todo>
 </body>
 </html>
